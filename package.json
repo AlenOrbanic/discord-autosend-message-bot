@@ -1,0 +1,16 @@
+{
+  "name": "autizamspam-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Orba#9146",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rich-presence": "^0.0.8",
+    "discord-rpc": "^4.0.1",
+    "discord.js": "^13.6.0"
+  }
+}
